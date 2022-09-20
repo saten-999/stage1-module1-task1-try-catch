@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ParseIntegers",
+            "request": "launch",
+            "mainClass": "com.epam.m1.exceptions.ParseIntegers",
+            "projectName": "exceptions-t1"
+        },
+        {
+            "name": "Listen for Xdebug",
+            "type": "php",
+            "request": "launch",
+            "port": 9003
+        }
+    ]
+}
